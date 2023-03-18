@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">binar-material-design</string>
+    <string name="hello_welcome">Halo, Selamat Datang</string>
+    <string name="name">Nama</string>
+    <string name="confirm_pasword">Konfirmasi Password</string>
+    <string name="login_here">Login Disini</string>
+    <string name="sign_up_here">Sign Up Disini</string>
+</resources>

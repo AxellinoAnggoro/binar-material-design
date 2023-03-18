@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">binar-material-design</string>
+    <string name="hello_welcome">Hello, Welcome</string>
+    <string name="name">Name</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="confirm_pasword">Confirm Pasword</string>
+    <string name="register" translatable="false">REGISTER</string>
+    <string name="login_here">Login here</string>
+    <string name="login" translatable="false">LOGIN</string>
+    <string name="sign_up_here">Sign up Here</string>
+</resources>
